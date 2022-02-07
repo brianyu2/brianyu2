@@ -1,4 +1,10 @@
-### Hi there 👋
+Heyo!
+
+My name is Brian Yu and I am currently a senior in Computer Science at UIC with a concentration in Software Engineering.
+
+I am currently learning some Python and Data Science on the side.
+My website: https://brianyu2.github.io/
+Skills: C/C++, C#, Java, Python, JavaScript, SQL
 
 <!--
 **brianyu2/brianyu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
