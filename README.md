@@ -5,10 +5,15 @@ My name is Brian Yu and I am currently a senior in Computer Science at UIC with 
 I am currently learning some Python and Data Science on the side. Develop games in Unity for fun.
 
 Links:
+
 My website: https://brianyu2.github.io/
+
 Resume PDF: https://brianyu2.github.io/BrianYuResumeV2.pdf
+
 Resume DOCX: https://brianyu2.github.io/BrianYuResumeV2.docx
+
 Email: brian.yu.cs@gmail.com
+
 
 Skills: C/C++, C#, Java, Python, JavaScript, SQL, HTML/CSS
 
