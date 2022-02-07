@@ -4,6 +4,8 @@ My name is Brian Yu and I am currently a senior in Computer Science at UIC with 
 
 I am currently learning some Python and Data Science on the side. Develop games in Unity for fun.
 
+I am also a Twitch Partner, and world record holder of multiple speedruns in games of the Halo and Elder Scrolls franchises. Have found and helped developed tricks and glitches for these communities.
+
 Links:
 
 My website: https://brianyu2.github.io/
@@ -13,7 +15,6 @@ Resume PDF: https://brianyu2.github.io/BrianYuResumeV2.pdf
 Resume DOCX: https://brianyu2.github.io/BrianYuResumeV2.docx
 
 Email: brian.yu.cs@gmail.com
-
 
 Skills: C/C++, C#, Java, Python, JavaScript, SQL, HTML/CSS
 
